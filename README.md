@@ -1,5 +1,5 @@
-# ChartAI - Text to Graph/Charts and Insights
-This web application is built using python, streamlit, python enabled html, Nivo Chart and mui.
+# Colleague On-Boarding Application
+This web application is built using python, streamlit, python enabled html.
 
 
 
@@ -7,28 +7,16 @@ This web application is built using python, streamlit, python enabled html, Nivo
 
 ## Features
  
-1) Generate insights to the tabular data, you can upload your CSV file and ask any question about it.
-2) Text to SQL
-3) Text to Chart/Graph
-4) The Graph that has been created is draggable and resizable
-
-Current supported chart types:
-
--Bar Chart
-
--Line Plot
-
--Scatter Plot
-
--Swarm Plot
-
--Pie Chart
+1) The Application has 2 pages Colleague On-Boarding App Home page and Data Load Page 
+2) Home Page helps user to interact with the data availabe at the Data Bank.
+3) User can upload, user details and data to data to data bank.
+4) The app shows the question answer mode in deatil with questions and respective answers
 
 ## How to use the Repository
 To start using the repository, first clone the project into your local pc
 
 ```
-git clone https://github.com/thongekchakrit/automated-data-analysis.git
+git clone https://github.com/arunnaray/llm-poc-hub.git
 ```
 
 Next, open the file location in any Python IDE, I highly recommend PyCharm. 
